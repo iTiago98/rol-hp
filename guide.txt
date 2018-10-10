@@ -1,0 +1,11 @@
+Características:
+	Talento mágico (Escalado de potencia para transformaciones, pociones y el resto de hechizos)
+	Corpulencia (Fuerza física y resistencia)
+	Inteligencia (Escalado de aprendizaje para transformaciones, pociones y el resto de hechizos)
+	Carisma (Capacidad de convicción y relaciones sociales)
+	
+Asignaturas:
+	Transformaciones
+	Encantamientos
+	Pociones
+	Defensa personal y contra las artes oscuras
