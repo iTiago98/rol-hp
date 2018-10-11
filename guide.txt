@@ -4,8 +4,43 @@ Características:
 	Inteligencia (Escalado de aprendizaje para transformaciones, pociones y el resto de hechizos)
 	Carisma (Capacidad de convicción y relaciones sociales)
 	
-Asignaturas:
+Aprendizaje:
 	Transformaciones
+		Inanimado en inanimado
+		Vivo (no humano) en vivo (no humano)
+		Vivo (no humano) en inanimado
+		Humano en humano
+		Humano en vivo (no humano)
+		Humano en inanimado
 	Encantamientos
+		Wingardium Leviosa
+		Reparo
+		Aguamenti
+		Incendio
+		Alohomora
+		Confundo
+		Accio
+		Diffindo
+		Obliviate
 	Pociones
+		Brebaje de confusión
+		Poción olvidadiza
+		Antíoto para pociones comunes
+		Poción de reanimación
+		Preparado de los muertos vivientes
+		Poción de invisibilidad
+		Poción de protección ígnea
+		Poción multijugos
+		Amortentia
+		Veritaserum
+		Felix Felicis
 	Defensa personal y contra las artes oscuras
+		Expelliarmus
+		Impedimenta
+		Protego
+		Petrificus Totalus
+		Desmaius
+		Riddikulus
+		Protego totalum
+		Expecto Patronum
+		
