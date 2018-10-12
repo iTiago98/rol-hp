@@ -4,43 +4,49 @@ Características:
 	Inteligencia (Escalado de aprendizaje para transformaciones, pociones y el resto de hechizos)
 	Carisma (Capacidad de convicción y relaciones sociales)
 	
-Aprendizaje:
+Asignaturas:
 	Transformaciones
-		Inanimado en inanimado
-		Vivo (no humano) en vivo (no humano)
-		Vivo (no humano) en inanimado
-		Humano en humano
-		Humano en vivo (no humano)
-		Humano en inanimado
 	Encantamientos
-		Wingardium Leviosa
-		Reparo
-		Aguamenti
-		Incendio
-		Alohomora
-		Confundo
-		Accio
-		Diffindo
-		Obliviate
 	Pociones
-		Brebaje de confusión
-		Poción olvidadiza
-		Antíoto para pociones comunes
-		Poción de reanimación
-		Preparado de los muertos vivientes
-		Poción de invisibilidad
-		Poción de protección ígnea
-		Poción multijugos
-		Amortentia
-		Veritaserum
-		Felix Felicis
 	Defensa personal y contra las artes oscuras
-		Expelliarmus
-		Impedimenta
-		Protego
-		Petrificus Totalus
-		Desmaius
-		Riddikulus
-		Protego totalum
-		Expecto Patronum
-		
+
+Tiradas de creación de personaje:
+	Para crear el personaje, hará falta tirar 2d20 cuatro veces. De cada tirada, si la diferencia entre los resul-
+	tados es menor que 10, se coge el dado con el valor	más alto y, por orden, se apunta el valor en la caracte-
+	rística correspondiente (TM, Cor, Int, Car), diviéndolo antes por 4 y aproximándolo al alza. Si la diferencia
+	es mayor o igual que 10 se repite la tirada.
+	De la misma forma, se vuelven a tirar 2d20 cuatro veces. Ahora, de cada tirada se coge el menor valor (mante-
+	niendo que la diferencia sea menor que 10). Estos resultados se apuntarán por orden en cada asignatura (trans,
+	enc, poc, DPAO), diviéndolos antes por 2 y aproximándolos al alza; y serán la experiencia necesaria para subir
+	de nivel en cada una.
+
+Nivel de asignatura:
+	Cada jugador empieza con todas las asignaturas a nivel 1. El nivel de cada asignatura aumenta recibiendo se-
+	siones de aprendizaje (ir a clase o a la biblioteca). Cada vez que se sube de nivel, se desbloquean una serie
+	de hechizos para poder aprender sobre ellos y utilizarlos. La velocidad de subida de nivel de asignatura de-
+	pende de la inteligencia. Cada sesión de aprendizaje tendrá etiquetado un nivel. Para poder progresar en la
+	asignatura, el jugador deberá tener el mismo nivel que el etiquetado en la sesión. Si éste es el caso, tras
+	haber recibido la sesión, tu progreso en la asignatura aumenta igual a tu inteligencia.
+
+Aprendizaje de hechizos:
+	Para aprender un hechizo, debes tener nivel suficiente en la asignatura del hechizo y haber recibido una ex-
+	plicación sobre como usarlo (NPCs, otros jugadores o haberlo leído en un libro, por ejemplo). Una vez apren-
+	dido, el hechizo comienza con un nivel de dominio 1, y podrás lanzarlo.
+
+Dominio de hechizos:
+	Cada hechizo, para cada jugador, tiene un nivel de dominio, el cual empieza a 1 y va aumentando conforme el
+	jugador obtiene experiencia sobre el hechizo, hasta 5. Este nivel se tendrá en cuenta para determinar si el
+	hechizo tuvo o no éxito al ser lanzado. Lanzar el hechizo en cuestión aumentará su nivel de dominio, si el 
+	resultado de la tirada es mayor o igual al indicado en la descripción del mismo.
+
+Lanzamiento de hechizos:
+	Para lanzar un hechizo, el jugador debe haberlo aprendido y tener al menos 1 punto de dominio en él. Se cal-
+	cula el mínimo necesitado para que el hechizo tenga éxito: 21-2*(TM+Dom). Se tira 1d20 y se compara el míni-
+	mo con el resultado de la tirada. Si es mayor o igual, éxito; en caso contrario, fracaso.
+
+Acciones no mágicas:
+	Si se quieren realizar acciones no mágicas (como pegarle a alguien o intentar convencerlo de algo), se ele-
+	girá una característica según la acción y un nivel de dificultad I[1-5] (ambas a discreción del master); y
+	se calculará el mínimo necesitado para que la acción tenga éxito: 21-2*(característica+6-dificultad). Se ti-
+	ra 1d20 y se compara el mínimo con el resultado de la tirada. Si es mayor o igual, éxito; en caso contrario,
+	fracaso.
