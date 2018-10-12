@@ -19,6 +19,7 @@ Tiradas de creación de personaje:
 	niendo que la diferencia sea menor que 10). Estos resultados se apuntarán por orden en cada asignatura (trans,
 	enc, poc, DPAO), diviéndolos antes por 2 y aproximándolos al alza; y serán la experiencia necesaria para subir
 	de nivel en cada una.
+	Cuando estén todos los valores apuntados, se pueden borrar y empezar de nuevo el proceso.
 
 Nivel de asignatura:
 	Cada jugador empieza con todas las asignaturas a nivel 1. El nivel de cada asignatura aumenta recibiendo se-
@@ -26,7 +27,7 @@ Nivel de asignatura:
 	de hechizos para poder aprender sobre ellos y utilizarlos. La velocidad de subida de nivel de asignatura de-
 	pende de la inteligencia. Cada sesión de aprendizaje tendrá etiquetado un nivel. Para poder progresar en la
 	asignatura, el jugador deberá tener el mismo nivel que el etiquetado en la sesión. Si éste es el caso, tras
-	haber recibido la sesión, tu progreso en la asignatura aumenta igual a tu inteligencia.
+	haber recibido la sesión, tu progreso en la asignatura aumenta una cantidad igual a tu inteligencia.
 
 Aprendizaje de hechizos:
 	Para aprender un hechizo, debes tener nivel suficiente en la asignatura del hechizo y haber recibido una ex-
@@ -36,13 +37,13 @@ Aprendizaje de hechizos:
 Dominio de hechizos:
 	Cada hechizo, para cada jugador, tiene un nivel de dominio, el cual empieza a 1 y va aumentando conforme el
 	jugador obtiene experiencia sobre el hechizo, hasta 5. Este nivel se tendrá en cuenta para determinar si el
-	hechizo tuvo o no éxito al ser lanzado. Lanzar el hechizo en cuestión aumentará su nivel de dominio, si el 
+	hechizo tuvo o no éxito al ser lanzado. Lanzar el hechizo en cuestión aumentará su nivel de dominio si el 
 	resultado de la tirada es mayor o igual al indicado en la descripción del mismo.
 
 Lanzamiento de hechizos:
-	Para lanzar un hechizo, el jugador debe haberlo aprendido y tener al menos 1 punto de dominio en él. Se cal-
-	cula el mínimo necesitado para que el hechizo tenga éxito: 21-2*(TM+Dom). Se tira 1d20 y se compara el míni-
-	mo con el resultado de la tirada. Si es mayor o igual, éxito; en caso contrario, fracaso.
+	Para lanzar un hechizo, el jugador debe haberlo aprendido. Se calcula el mínimo necesitado para que el hechizo
+	tenga éxito: 21-2*(TM+Dom). Se tira 1d20 y se compara el mínimo con el resultado de la tirada. Si es mayor o 
+	igual, éxito; en caso contrario, fracaso.
 
 Acciones no mágicas:
 	Si se quieren realizar acciones no mágicas (como pegarle a alguien o intentar convencerlo de algo), se ele-
