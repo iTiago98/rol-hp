@@ -47,7 +47,7 @@ Lanzamiento de hechizos:
 
 Acciones no mágicas:
 	Si se quieren realizar acciones no mágicas (como pegarle a alguien o intentar convencerlo de algo), se ele-
-	girá una característica según la acción y un nivel de dificultad I[1-5] (ambas a discreción del master); y
+	girá una característica según la acción y un nivel de dificultad I[1, 10] (ambas a discreción del master); y
 	se calculará el mínimo necesitado para que la acción tenga éxito: 21-2*(característica+6-dificultad). Se ti-
 	ra 1d20 y se compara el mínimo con el resultado de la tirada. Si es mayor o igual, éxito; en caso contrario,
 	fracaso.
