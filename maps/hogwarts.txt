@@ -1,0 +1,50 @@
+http://deepnight.net/tools/tabletop-rpg-map-editor/
+
+-2 (MAZMORRAS):
+	Sala común de Slytherin
+	Aula de Pociones
+	Despacho de Snape
+	(E) Sala de la Piedra Filosofal
+	(E) Mazmorra del cumpleaños de muerte
+
+-1 (COCINAS):
+	Sala común de Hufflepuff
+	(E) Las cocinas
+
+0 (SALON PRINCIPAL):
+	Vestíbulo
+	Salón principal
+	Aula de Transformaciones
+	(E) Sala de personal
+	(E) Despacho de Filch
+
+1 (ENFERMERÍA):
+	Enfermería
+	Aula de DPAO
+	Despacho de McGonagall
+
+2 (ASEOS DE MYRTLE LA LLORONA):
+	Despacho del profesor de DPAO
+	(E) Aseos de Myrtle la Llorona / Entrada a la Cámara de los secretos
+
+3 (SALA DE TROFEOS):
+	Aula de Encantamientos
+	Sala de trofeos
+	(E) Habitación de Fluffy
+
+4 (BIBLIOTECA):
+	Biblioteca
+	
+5 (ASEOS DE LOS PREFECTOS):
+	Sala común de Ravenclaw
+	Aseos de los prefectos
+	(E) Estatua de Gregory el Adulador (Pasillo secreto hacia Hosmeade)
+
+6 (HISTORIA PRINCIPAL):
+	?
+
+7 (DESPACHO DE DUMBLEDORE):
+	Sala común de Griffindor
+	Despacho de Dumbledore
+	Despacho de Flitwick
+	(E) Sala de los Menesteres
